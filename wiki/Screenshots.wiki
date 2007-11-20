@@ -1,9 +1,9 @@
 #summary Screenshots of ConfAnnounce
 
-= Introduction =
-
-Basic screenshots on Windows and OS X
-
-
 = Screens =
-||[http://www.lehigh.edu/~mab305/pics/cascreen_win.PNG]||[http://www.lehigh.edu/~mab305/pics/cascreen_mac.png]||
+
+==Windows==
+[http://www.lehigh.edu/~mab305/pics/cascreen_win.PNG]
+
+==Mac OS X==
+[http://www.lehigh.edu/~mab305/pics/cascreen_mac.png]
